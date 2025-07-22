@@ -6,7 +6,6 @@ requires = ["hatchling", "hatch-requirements-txt"]
 dynamic = ["dependencies"]
 description = "Cerebrum: Agent SDK for AIOS"
 keywords = ["llm", "agi", "cerebrum", "os", "aios"]
-license = {file = "LICENSE"}
 name = "aios-agent-sdk"
 readme = "README.md"
 requires-python = ">=3.10,<3.12"
